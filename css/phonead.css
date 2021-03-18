@@ -1,0 +1,33 @@
+.phonead-header {
+    display: block;
+    overflow: auto;
+  }
+  
+.title {
+    float: left;
+    width: 70%;
+}
+
+.buy-group {
+    text-align: right;
+    width: auto;
+}
+
+.price {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.phonead-body {
+    display: block;
+}
+.phonead-image {
+    float: left;
+    width: 500px;
+    height: auto;
+    max-width: 100%;
+    margin-right: 10px;
+}
+.phonead-description {
+    padding: 10px;
+}
